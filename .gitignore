@@ -4,3 +4,4 @@
 *.gif
 *.jpg
 Data
+.DS_Store
