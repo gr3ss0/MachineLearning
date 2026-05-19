@@ -5,3 +5,4 @@
 *.jpg
 Data
 .DS_Store
+.npy
